@@ -2,7 +2,7 @@
 layout: post
 title: '微信抢票总结博客'
 subtitle: '部分功能点实现及bug处理'
-tsgs: django 微信公众号 单元测试
+tags: django 微信公众号 单元测试
 ---
 
 # 微信抢票开发
