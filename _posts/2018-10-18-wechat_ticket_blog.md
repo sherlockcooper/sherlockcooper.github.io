@@ -61,9 +61,9 @@ tags: django 微信公众号 单元测试
 
 对于开发中的测试方法编写，压力测试，集成开发环境搭建等方面，请参见本组其他同学的总结博客，下附链接：
 
-[hongfz16](hongfz16.github.io)
+[hongfz16](https://hongfz16.github.io)
 
-[shadowiterator](shadowiterator.github.io)
+[shadowiterator](https://shadowiterator.github.io)
 
-[ydcfwzy](ycdfwzy.github.io)
+[ydcfwzy](https://ycdfwzy.github.io)
 
