@@ -60,3 +60,10 @@ tags: django 微信公众号 单元测试
   继承此类的子类测试原理与上一种大致相同，但由于微信接口的设置，此类接口的request和response的数据部分均存为xml格式，因此在传入请求参数或检查返回结果时应自己定义方法将样例dict等数据转为xml格式的bytes数据。
 
 对于开发中的测试方法编写，压力测试，集成开发环境搭建等方面，请参见本组其他同学的总结博客，下附链接：
+
+[hongfz16](hongfz16.github.io)
+
+[shadowiterator](shadowiterator.github.io)
+
+[ydcfwzy](ycdfwzy.github.io)
+
